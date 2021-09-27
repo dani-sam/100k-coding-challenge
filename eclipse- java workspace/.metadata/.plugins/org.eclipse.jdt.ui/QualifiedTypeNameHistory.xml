@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="threeclasssample.Final"/>
+    <fullyQualifiedTypeName name="threeclasssample.First"/>
+    <fullyQualifiedTypeName name="constructorsample.Sample"/>
+    <fullyQualifiedTypeName name="constructorsample.Hello"/>
+    <fullyQualifiedTypeName name="thissample.Sample"/>
+    <fullyQualifiedTypeName name="methodoverloading.Hello"/>
+    <fullyQualifiedTypeName name="supersample.B"/>
+    <fullyQualifiedTypeName name="hello.hey.Hello"/>
+    <fullyQualifiedTypeName name="threadsample1.SampleThread"/>
+    <fullyQualifiedTypeName name="java.lang.Runnable"/>
+    <fullyQualifiedTypeName name="threadsample2.Hello"/>
+    <fullyQualifiedTypeName name="threadsample2.SampleThread"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="switchsample1.Switch"/>
+    <fullyQualifiedTypeName name="java.text.BreakIterator"/>
+    <fullyQualifiedTypeName name="javax.swing.SwingConstants"/>
+    <fullyQualifiedTypeName name="java.awt.Font"/>
+    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
+    <fullyQualifiedTypeName name="javax.swing.plaf.ColorUIResource"/>
+    <fullyQualifiedTypeName name="java.awt.Color"/>
+    <fullyQualifiedTypeName name="javax.swing.JLabel"/>
+    <fullyQualifiedTypeName name="org.graalvm.compiler.word.Word"/>
+    <fullyQualifiedTypeName name="com.sun.jdi.request.ThreadDeathRequest"/>
+    <fullyQualifiedTypeName name="javax.swing.JButton"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.GETSTATIC"/>
+    <fullyQualifiedTypeName name="jdk.internal.icu.text.BidiBase.BidiPairedBracketType"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="jdk.internal.org.jline.utils.Display"/>
+    <fullyQualifiedTypeName name="java.lang.Float"/>
+    <fullyQualifiedTypeName name="Calu"/>
+    <fullyQualifiedTypeName name="Calculator"/>
+    <fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
+    <fullyQualifiedTypeName name="sun.jvm.hotspot.runtime.StaticBaseConstructor"/>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+</qualifiedTypeNameHistroy>

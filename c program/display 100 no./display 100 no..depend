@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621781054 source:/home/ghost/Documents/c program/display 100 no:/main.c
+	<stdio.h>
+	<stdlib.h>
+

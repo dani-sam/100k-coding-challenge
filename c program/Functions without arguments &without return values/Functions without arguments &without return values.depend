@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620500520 source:/home/ghost/Documents/c program/Functions without arguments &without return values/main.c
+	<stdio.h>
+	<stdlib.h>
+

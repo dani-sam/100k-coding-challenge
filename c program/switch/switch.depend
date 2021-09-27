@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618487725 source:/home/ghost/Documents/c program/switch/main.c
+	<stdio.h>
+	<stdlib.h>
+

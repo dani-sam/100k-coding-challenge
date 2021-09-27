@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620409414 source:/home/ghost/Documents/c program/Selectionsort/main.c
+	<stdio.h>
+	<stdlib.h>
+

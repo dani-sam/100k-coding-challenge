@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620316220 source:/home/ghost/Documents/c program/prime number/main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,10 @@
+
+**** Build of configuration Debug for project sample ****
+
+Nothing to build for project sample
+00:54:56 **** Build of configuration Debug for project sample 1 ****
+make all 
+Cannot run program "make": Unknown reason
+
+Error: Program "make" not found in PATH
+PATH=[/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/jvm/java-16-oracle/bin:/usr/lib/jvm/java-16-oracle/db/bin]

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618425051 source:/home/ghost/Documents/c program/larger or smaller /main.c
+	<stdio.h>
+	<stdlib.h>
+

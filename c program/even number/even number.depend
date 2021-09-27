@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620313059 source:/home/ghost/Documents/c program/even number/main.c
+	<stdio.h>
+	<stdlib.h>
+

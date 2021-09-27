@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618393637 source:/home/ghost/Documents/c program/sample input/main.c
+	<stdio.h>
+	<stdlib.h>
+
